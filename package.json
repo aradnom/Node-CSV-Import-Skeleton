@@ -1,0 +1,14 @@
+{
+  "name": "csv-import",
+  "version": "0.1.0",
+  "description": "Simple starter for a csv-to-mysql import script",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "csv": "~0.3.6",
+    "mysql": "~2.0.0",
+    "underscore": "~1.5.2"
+  }
+}
